@@ -4,3 +4,6 @@
 ＊注意：Fire wall ポート 7000 を有効にする必要がある
 
 - shutdown: Rapi のシャットダウンコントロールサービスである。
+
+- mqtt のセットアップは以下のリンクを参考してください
+https://xperimentia.com/2015/08/20/installing-mosquitto-mqtt-broker-on-raspberry-pi-with-websockets/
