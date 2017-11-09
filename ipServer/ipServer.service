@@ -1,7 +1,7 @@
 [Unit]
 Description=Searching for robot ip
 [Service]
-ExecStart=/usr/bin/node /root/pyShutdown/ipServer/ipServer.js
+ExecStart=/usr/bin/node /root/mimamori-plus/ipServer/ipServer.js
 Restart=always
 Type=simple
 [Install]
